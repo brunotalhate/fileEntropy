@@ -4,10 +4,6 @@
 
 Once installed, download this repo and run it:
 
-```bash:default
-python entropy.py` wich will use default file path `'./files/file.txt'
-```
+`$ python entropy.py` wich will use default file path `'./files/file.txt'`
 
-```bash:yourPath
-python entropy.py <file_path>
-```
+To use your own file path, use `$ python entropy.py <file_path>`
